@@ -20,6 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roman-a-cook/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:romancook1@gmail.com)
 [![Johns Hopkins](https://img.shields.io/badge/M.S._Robotics-Johns_Hopkins-002D62?style=flat-square)](https://engineering.jhu.edu)
+[![MIT PE ADSP](https://img.shields.io/badge/MIT_PE%20ADSP-ePortfolio-A31F34?style=flat-square)](https://www.mygreatlearning.com/eportfolio/roman-cook)
 
 </div>
 
